@@ -15,6 +15,15 @@
 | :-------------------------------------: | :--------------------------: |
 | Strategy Guide UI (Traditional Chinese) | Strategy guide for beginners |
 
+## 📦 Assets
+
+- Thumbnail
+  - 1366x768
+  - Outline 5px
+  - Linear Gradient
+    - 683x645 #906635
+    - 683x735 #F1B676
+
 ## 🖋 Author
 
 miZyind <mizyind@gmail.com>
