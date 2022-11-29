@@ -1,4 +1,6 @@
-﻿# miZyind's AoE2 Mods
+﻿![LOGO](https://github.com/miZyind/AoE2-Mods/blob/master/assets/logo.jpg)
+
+# miZyind's AoE2 Mods
 
 [![AoE2](https://img.shields.io/badge/AoE2-000?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/813780)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp)](https://www.gimp.org)
