@@ -9,11 +9,12 @@
 - GIMP
 - VSCode
 
-## 🗂 Mod List
+## 🗂️ Mod List
 
 |                  Name                   |         Description          |
 | :-------------------------------------: | :--------------------------: |
 | Strategy Guide UI (Traditional Chinese) | Strategy guide for beginners |
+|               Small Trees               |    Finalized small trees     |
 
 ## 📦 Assets
 
